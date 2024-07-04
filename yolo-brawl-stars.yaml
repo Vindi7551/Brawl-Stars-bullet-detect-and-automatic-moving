@@ -1,0 +1,8 @@
+#path: D:/Brawl-Stars-bullet-detect-and-automatic-moving
+train: D:/Brawl-Stars-bullet-detect-and-automatic-moving/output_directory_5.27/train/images
+val: D:/Brawl-Stars-bullet-detect-and-automatic-moving/output_directory_5.27/val/images
+nc: 3
+names:
+  - bullet
+  - bullet-enemy
+  - charactor
